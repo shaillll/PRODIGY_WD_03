@@ -1,1 +1,3 @@
 # PRODIGY_WD_03
+
+This project is a browser-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to take turns marking spaces in a 3×3 grid with "X" and "O". It includes key features such as real-time win/draw detection, a reset/new game option, and responsive design that adapts to different screen sizes. The logic checks for all winning combinations after each turn, and the interface displays the winner or a draw message accordingly. Smooth styling, button animations, and a modern color palette make the game visually appealing. This project helped me deepen my understanding of DOM manipulation, event handling, and conditional logic in JavaScript while reinforcing responsive layout practices with CSS.
